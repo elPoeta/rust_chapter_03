@@ -6,6 +6,7 @@ fn main() {
 
     // one statement
     let y = 6;
+    println!("The value of y is: {y}");
 
     //expression
     let y = {
